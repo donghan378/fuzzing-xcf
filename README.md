@@ -1,3 +1,11 @@
+# 2024 한양대학교 졸업 프로젝트
+기존의 oss-fuzz-gen의 성능 향상을 위한 개선 방안
+
+
+
+
+
+
 # A Framework for Fuzz Target Generation and Evaluation
 
 This framework generates fuzz targets for real-world `C`/`C++/Java/Python` projects with

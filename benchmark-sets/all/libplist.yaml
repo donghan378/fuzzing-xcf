@@ -1,0 +1,11 @@
+"functions":
+- "name": "plist_print"
+  "params":
+  - "name": "plist"
+    "type": "bool "
+  "return_type": "void"
+  "signature": "void plist_print(plist_t)"
+"language": "c++"
+"project": "libplist"
+"target_name": "bplist_fuzzer"
+"target_path": "/src/libplist/fuzz/bplist_fuzzer.cc"

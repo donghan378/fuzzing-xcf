@@ -1,0 +1,17 @@
+"functions":
+- "name": "worksheet_embed_image"
+  "params":
+  - "name": "self"
+    "type": "bool "
+  - "name": "row_num"
+    "type": "int"
+  - "name": "col_num"
+    "type": "short"
+  - "name": "filename"
+    "type": "bool "
+  "return_type": "int"
+  "signature": "lxw_error worksheet_embed_image(lxw_worksheet *, lxw_row_t, lxw_col_t, const char *)"
+"language": "c"
+"project": "libxlsxwriter"
+"target_name": "xlsx_fuzzer"
+"target_path": "/src/libxlsxwriter/dev/fuzzing/xlsx_fuzzer.cpp"
